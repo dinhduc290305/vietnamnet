@@ -1,0 +1,23 @@
+const VnnRootConfig = {
+    enabledAds: true,
+    enabledVnGlobal: true,
+    enabledRaovat: true,
+    enabledGold: true,
+    enabledCurrency: true,
+    enabledMoreNewsAI: true,
+    enabledSportFixtures: true,
+    enabledComment: true,
+    enabledVnn2sao: true,
+    enabledVnnTtol: true,
+
+    enabledVnnIctnews: true,
+    enabledVnnInfonet: true,
+    enabledListDiseaseHot: true,
+    enabledVnnIdModules: true,
+    enabledSportFixtures: true,
+    enabledCovid: true,
+    enabledVaccine: true,
+    enabledReadMost: true, 
+    enabledCommentMost:true, 
+    enabledProvince: true,
+}
